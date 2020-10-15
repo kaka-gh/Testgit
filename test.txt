@@ -13,3 +13,4 @@ devdevdev
 
 newdev
 edit dev
+git2dev
